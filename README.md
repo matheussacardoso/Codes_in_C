@@ -1,2 +1,3 @@
-# Codes_in_C
-My process of learning about coding with C
+# My process of Learning about Codign
+- C
+- Java
