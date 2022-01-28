@@ -1,3 +1,3 @@
-# My process of Learning about Codign
+# My process of Learning about Coding
 - C
 - Java
