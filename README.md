@@ -4,7 +4,7 @@
 - C
 - Java
 
-###C
+### C
 - Introduction to Logic Programming
 - Functions
 - Data Structure
