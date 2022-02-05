@@ -3,6 +3,7 @@
 ## Technologies
 - C
 - Java
+- PowerBI
 
 ### C
 - Introduction to Logic Programming
@@ -16,3 +17,6 @@
 - Aggregation Relation
 - Encapsulation
 - Inheritance
+
+### PowerBI
+- Relation
