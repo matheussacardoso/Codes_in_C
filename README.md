@@ -19,4 +19,7 @@
 - Inheritance
 
 ### PowerBI
-- Relation
+- Business Intelligence
+- Data modeling (Star Schema and Snowflake)
+- Cardinality of the relationship
+- Power Query M-Language and DAX
