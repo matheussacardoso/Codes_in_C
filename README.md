@@ -21,5 +21,5 @@
 ### PowerBI
 - Business Intelligence
 - Data modeling (Star Schema and Snowflake)
-- Cardinality of the relationship
+- Cardinality of relationship
 - Power Query M-Language and DAX
