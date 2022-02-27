@@ -8,7 +8,8 @@
 ### C
 - Introduction to Logic Programming
 - Functions
-- Data Structure
+- Data Structure (Stack, Queue, Linked List) 
+- File Handling
 
 ### Java
 - Principles of POO
