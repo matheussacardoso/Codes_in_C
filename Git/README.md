@@ -20,9 +20,3 @@ git remote add origin git@github.com:leocomelli/curso-git.git
 ```
 git push -u origin master
 ```
-```
-git push -u origin master
-```
-```
-git push -u origin master
-```
