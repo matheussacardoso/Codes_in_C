@@ -1,4 +1,4 @@
-# Comandos GIT
+# Comandos mais importantes do GIT
 ```
 git init
 ```
