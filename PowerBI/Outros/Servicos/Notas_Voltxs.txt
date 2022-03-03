@@ -1,0 +1,11 @@
+Paleta de Cores (https://imagecolorpicker.com/pt-pt)
+	Preto - #000000
+	Laranja - #f0770c
+	Amarelo - #fecc00
+
+	Cinza - #666666
+
+Colunas
+	Medidas: CAPEX, TIR, ROI, Desenvolvimento Terreno (%), Desenvolvimento Usina (%), Clientes Alocados (%), Potência Instalada, Previsão de início de operação (Parâmetros do ativo)
+
+	Variáveis: 
