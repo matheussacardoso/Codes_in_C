@@ -1,0 +1,72 @@
+;Setores Econômicos;Setores Econômicos;Setores Econômicos;Setores Econômicos;Setores Econômicos;Setores Econômicos;Setores Econômicos
+;Setor Econômicoarrow_upward;Smartline CAT (2012 a 2020)arrow_upward;Variação CAT (2019-2020)arrow_upward;Smartline B91 (2012 a 2020)arrow_upward;Variação B91 (2019-2020)arrow_upward;Smartline B31 (2012 a 2020)arrow_upward;Variação B31 (2019-2020)arrow_upward
+0;Atividades de atendimento hospitalar;1405  2297;+24,6%;271  109;-25,9%;1106  2300;+73,8%
+1;Transporte rodoviário de carga;489  280;-8,2%;355  88;-46,7%;1014  1295;+45,2%
+2;Fabricação de açúcar em bruto;183  243;+167%;74  19;-50%;230  213;-1,4%
+3;Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados e supermercados;328  235;-14,5%;266  62;-49,2%;1035  1276;+29,4%
+4;Coleta de resíduos não-perigosos;121  223;+30,4%;46  8;-66,7%;155  124;+24%
+5;Bancos múltiplos, com carteira comercial;520  195;+34,5%;542  441;-26,9%;251  915;+162,2%
+6;Construção de edifícios;598  190;-14,8%;551  89;-48,6%;2494  1183;+4,2%
+7;Fabricação de calçados de couro;188  189;-31,8%;146  21;-69,6%;1300  730;+1,1%
+8;Administração pública em geral;740  143;+33,6%;675  109;-73,7%;5849  4864;-26%
+9;Comércio atacadista de bebidas;164  140;-29,3%;83  25;-69,5%;192  260;-18,5%
+0;Atividades de apoio à gestão de saúde;66  139;+10,3%;5  8;+100%;68  309;+74,6%
+1;Obras para geração e distribuição de energia elétrica e para telecomunicações;185  132;-34,7%;105  34;-39,3%;211  556;+49,1%
+2;Hotéis e similares;174  130;-38,4%;136  28;-71,7%;621  654;-9,7%
+3;Atividades de serviços de complementação diagnóstica e terapêutica;58  125;+7,8%;27  9;-64%;166  415;+42,6%
+4;Fabricação de embalagens de material plástico;108  99;-12,4%;45  13;-50%;89  139;+28,7%
+5;Atividades de associações de defesa de direitos sociais;153  99;-22%;111  48;-36,8%;644  1794;+111,1%
+6;Abate de suínos, aves e outros pequenos animais;61  96;+10,3%;31  8;-70,4%;95  145;+6,6%
+7;Restaurantes e outros estabelecimentos de serviços de alimentação e bebidas;166  89;-36,4%;237  45;-60,9%;1220  1096;-16,3%
+8;Instalações elétricas;64  84;-5,6%;48  17;-48,5%;203  288;+7,5%
+9;Atividades de transporte de valores;88  84;+18,3%;45  12;-47,8%;126  156;+143,8%
+0;Serviços de catering, bufê e outros serviços de comida preparada;145  79;+41,1%;77  19;-55,8%;353  327;+23,4%
+1;Condomínios prediais;79  79;+12,9%;82  29;-46,3%;550  575;+4,9%
+2;Cultivo de uva;64  78;+27,9%;42  7;+40%;242  207;+47,9%
+3;Incorporação de empreendimentos imobiliários;529  76;-45,7%;156  4;-75%;674  117;-0,8%
+4;Atividades de atenção ambulatorial executadas por médicos e odontólogos;61  72;-37,4%;31  8;-46,7%;216  394;+44,9%
+5;Comércio varejista de ferragens, madeira e materiais de construção;157  72;-28,7%;246  48;-63,4%;875  1022;+20,2%
+6;Abate de reses, exceto suínos;59  70;0%;43  12;-53,8%;91  111;+56,3%
+7;Serviços de engenharia;151  69;-27,4%;135  30;-45,5%;665  457;-3,6%
+8;Fabricação de pneumáticos e de câmaras-de-ar;189  67;-31,6%;104  35;-45,3%;123  65;-33%
+9;Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes;104  66;+13,8%;65  13;-66,7%;180  147;+14,8%
+0;Fabricação de refrigerantes e de outras bebidas não-alcoólicas;102  65;-42%;40  2;-92,9%;94  104;+62,5%
+1;Produção de sementes certificadas;16  65;+71,1%;0  0;sem incidência;1  2;-50%
+2;Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal e em região metropolitana;225  62;-44,6%;290  54;-46%;952  869;+26,3%
+3;Atividades de vigilância e segurança privada;97  61;-21,8%;84  17;-39,3%;480  662;+19,3%
+4;Atividades de Correio;345  61;-47,9%;122  19;-45,7%;163  253;+166,3%
+5;Obras de engenharia civil não especificadas anteriormente;502  61;-28,2%;168  25;-46,8%;635  305;-7%
+6;Cultivo de frutas de lavoura permanente, exceto laranja e uva;129  60;-33,3%;39  8;-63,6%;223  269;-3,2%
+7;Comércio de peças e acessórios para veículos automotores;68  59;-6,3%;96  19;-59,6%;454  492;+20,3%
+8;Fabricação de produtos de carne;40  58;+7,4%;9  2;-50%;38  28;-37,8%
+9;Cultivo de soja;60  58;+7,4%;7  1;-80%;22  18;-21,7%
+0;Captação, tratamento e distribuição de água;104  58;-44,8%;32  7;-46,2%;100  146;+27%
+1;Comércio atacadista de produtos alimentícios em geral;61  56;+5,7%;53  19;-47,2%;207  272;+22,5%
+2;Serviços especializados para construção não especificados anteriormente;68  51;+15,9%;63  16;-15,8%;229  182;+5,8%
+3;Comércio varejista de produtos farmacêuticos para uso humano e veterinário;18  50;+6,4%;34  5;-80,8%;288  559;+29,4%
+4;Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas;66  47;-6%;38  1;-85,7%;124  61;-1,6%
+5;Construção de rodovias e ferrovias;90  46;-52,1%;63  7;-70,8%;315  216;-18,2%
+6;Extração de minerais metálicos não-ferrosos não especificados anteriormente;69  46;-50,5%;19  7;-30%;83  93;-13,9%
+7;Atividades de serviços prestados principalmente às empresas não especificadas anteriormente;70  45;-19,6%;168  26;-51,9%;909  654;+34,6%
+8;Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns;73  43;+30,3%;123  26;-52,7%;672  748;+11,6%
+9;Cultivo de cereais;24  42;+133,3%;2  0;sem incidência;13  6;-60%
+0;Fabricação de estruturas metálicas;17  41;+127,8%;16  3;-80%;32  88;+46,7%
+1;Fornecimento e gestão de recursos humanos para terceiros;15  40;-13%;31  6;-72,7%;102  224;+2,8%
+2;Comércio varejista de combustíveis para veículos automotores;57  40;0%;77  9;-75%;433  434;-7,3%
+3;Fabricação de produtos cerâmicos não-refratários para uso estrutural na construção;94  39;-17%;84  16;-61,9%;218  221;+30,8%
+4;Distribuição de energia elétrica;62  39;-9,3%;10  5;-37,5%;37  38;+31%
+5;Comércio atacadista de gás liqüefeito de petróleo (GLP);22  37;-5,1%;5  3;-57,1%;13  14;-12,5%
+6;Atividades de teleatendimento;59  37;-50,7%;49  24;-76,7%;329  1935;+64,1%
+7;Atividades de atenção à saúde humana não especificadas anteriormente;23  35;+66,7%;14  4;-42,9%;93  152;+42,1%
+8;Cultivo de plantas de lavoura temporária não especificadas anteriormente;37  34;-22,7%;25  7;-53,3%;95  69;-5,5%
+9;Atividades de apoio à agricultura;40  34;+126,7%;23  4;-63,6%;156  107;+33,7%
+0;Limpeza em prédios e em domicílios;99  34;-8,1%;109  23;-73,9%;538  791;+22,6%
+1;Tecelagem de fios de fibras artificiais e sintéticas;26  33;-17,5%;14  3;-75%;19  81;+50%
+2;Extração de pedra, areia e argila;33  33;-19,5%;30  9;-50%;77  102;+21,4%
+3;Fabricação de álcool;68  31;+29,2%;36  7;-12,5%;135  136;+60%
+4;Fabricação de artefatos de material plástico não especificados anteriormente;122  30;-41,2%;44  11;-45%;144  149;+10,4%
+5;Telecomunicações por fio;10  30;-21,1%;9  5;-58,3%;28  35;+6,1%
+6;Criação de aves;25  29;+3,6%;6  1;-66,7%;32  27;-15,6%
+7;Atividades de ensino não especificadas anteriormente;58  29;-38,3%;23  3;-72,7%;176  317;+22,9%
+8;Armazenamento;47  28;+7,7%;18  4;-60%;65  58;0%
+9;Fabricação de produtos de papel para usos doméstico e higiênico-sanitário;8  28;+3,7%;2  3;-50%;12  42;+27,3%
