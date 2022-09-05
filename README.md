@@ -4,6 +4,7 @@
 - C
 - Java
 - PowerBI
+- Python
 
 ### C
 - Introduction to Logic Programming
@@ -24,3 +25,8 @@
 - Data modeling (Star Schema and Snowflake)
 - Cardinality of relationship
 - Power Query M-Language and DAX
+
+### Python
+- Passoword generator
+- Music downloader
+- Pandas introduction
