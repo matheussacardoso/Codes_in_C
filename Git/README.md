@@ -44,6 +44,11 @@ git checkout xxx
 git branch
 ```
 
+## ATUALIZA A BRANCH ATUAL (main) BASEADA EM OUTRA (matheus)
+```
+git merge xxx
+```
+
 ## CLONAR REPOSITÓRIOS
 ```
 git clone xxx
@@ -54,6 +59,7 @@ git clone xxx
 git status
 ```
 
+## EXIBE TODOS OS COMMITS FEITOS
 ```
 git log
 ```
