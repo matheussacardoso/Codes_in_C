@@ -34,6 +34,16 @@ git push -u origin xxx
 git push -f origin xxx
 ```
 
+## TROCA DE BRANCH
+```
+git checkout xxx
+```
+
+## EXIBE TODAS AS BRANCHES
+```
+git branch
+```
+
 ## CLONAR REPOSITÓRIOS
 ```
 git clone xxx
