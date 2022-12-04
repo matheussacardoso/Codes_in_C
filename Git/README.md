@@ -1,22 +1,49 @@
 # Comandos mais importantes do GIT
+## CRIAR REPOSITÓRIO LOCAL
 ```
 git init
 ```
-```
-git status
-```
+
+## ADICIONAR TODAS ALTERAÇÕES PARA O COMMIT
 ```
 git add .
 ```
+
+## COMMIT PARA O REPOSITÓRIO LOCAL
 ```
-git commit -m "First Commit"
+git commit -a -m "First Commit"
 ```
+
+## PASSAR REPOSITÓRIO LOCAL PARA O REMOTO
+```
+git remote add origin xxx
+```
+
+## CRIAR/ALTERAR BRANCH
+```
+git branch -m xxx
+```
+
+## ENVIAR TODAS MODIFICAÇÕES DO COMMIT PARA O REPOSITÓRIO
+```
+git push -u origin xxx
+```
+
+## CASOS EXTREMOS
+```
+git push -f origin xxx
+```
+
+## CLONAR REPOSITÓRIOS
+```
+git clone xxx
+```
+
+## VERIFICAR TODAS AS AÇÕES FEITAS
+```
+git status
+```
+
 ```
 git log
-```
-```
-git remote add origin git@github.com:leocomelli/curso-git.git
-```
-```
-git push -u origin master
 ```
